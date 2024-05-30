@@ -26,8 +26,8 @@ export const ProjectList = [
     description:
       "showcasing my skills, projects, and internship experiences using react",
     tech_stack: "React",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+    github_url: "https://github.com/shan1311/react_portfolio",
+    demo_url: "https://shancssportfolio.netlify.app/",
   },
   {
     img: rentify,
