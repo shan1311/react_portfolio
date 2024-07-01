@@ -41,7 +41,7 @@ export const ProjectList = [
     img: ict,
     title: "Image generator",
     description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
+      "Created an image generator tool using openweaver studio.",
     tech_stack: "Openweaver studio",
     github_url: "https://github.com/shan1311/image-generator",
     demo_url: "https://studio.openweaver.com/apps/sundarcss6/pro-doc/home",
